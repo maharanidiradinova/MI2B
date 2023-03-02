@@ -42,6 +42,5 @@ public class mahasiswa {
                     + "Prodi : "+mhs2.prodi+"\n"
                     + "Kelas :"+mhs2.kelas);
          
-    }
-    
+}
 }
